@@ -42,3 +42,4 @@ getData()
 //event lsitener
 //localStorage
 //toggeling through the tagName --->>>>20 line
+//::before in html
